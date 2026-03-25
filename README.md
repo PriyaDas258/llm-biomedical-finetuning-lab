@@ -71,7 +71,7 @@ Fine-tune open-source LLMs (TinyLlama, Phi-2, Mistral-7B) on biomedical QA using
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-finetuning-lab.git
+git clone https://github.com/PriyaDas258/llm-biomedical-finetuning-lab.git
 cd llm-finetuning-lab
 pip install -r requirements.txt
 
