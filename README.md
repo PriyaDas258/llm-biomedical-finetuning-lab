@@ -141,4 +141,5 @@ pytest tests/ -v
 
 ## Author
 
-**Priya Das** — GenAI Engineer & Data Scientist | Toronto, Canada
+**Priya Das** — GenAI Engineer & Data Scientist | Toronto, Canada 
+[LinkedIn](https://www.linkedin.com/in/priya-das-9809a270/) · [Google Scholar](https://scholar.google.ca/citations?user=PiDz8w4AAAAJ&hl=en&oi=sra)
